@@ -1,4 +1,4 @@
-# [Game2](game2.html)
+#👉 [點擊方塊遊戲（線上遊玩）](file:///C:/Users/Admin/Desktop/1/game2.html)
 
 ### 第 1 頁
 ![PageG2](PageG2.png)

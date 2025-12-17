@@ -1,3 +1,3 @@
 # Game2
+!［Page1］(G2.png)
 
-###https://github.com/41423140/Game2/blob/main/G2.png

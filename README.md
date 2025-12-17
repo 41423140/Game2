@@ -1,4 +1,4 @@
-#👉[點擊開始遊戲](game2.html)
+#👉[點擊開始遊戲](https://41423140.github.io/Game2/game2.html)
 
 ### 第 1 頁
 ![PageG2](PageG2.png)

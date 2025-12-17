@@ -1,3 +1,3 @@
 # Game2
-!［Page1］(G2.png)
+!［Page 1］(G2.png)
 
